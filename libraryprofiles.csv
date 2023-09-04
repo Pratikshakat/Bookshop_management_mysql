@@ -1,0 +1,19 @@
+Staff Type,Number of Staff,Library,Library ID,Consortium Member,Private
+Librarians,53,Idle Hour Library,L-IHL,Yes,No
+Librarians,4,The Bibliophile's Shelves,L-BS,Yes,Yes
+Librarians,6,Armchair Athanaeum,L-AA,No,Yes
+Librarians,3,Old Friend Library,L-OFL,Yes,No
+Librarians,9,Bide Awhile,L-BA,Yes,No
+Librarians,7,IndieUnBound,L-IUB,Yes,No
+Librarians,3,Page Station Book Exchange,L-PS,No,Yes
+Library Assistants,16,Idle Hour Library,L-IHL,Yes,No
+Library Assistants,17,Old Friend Library,L-OFL,Yes,No
+Library Assistants,6,Bide Awhile,L-BA,Yes,No
+Library Assistants,47,IndieUnBound,L-IUB,Yes,No
+Library Assistants,4,Page Station Book Exchange,L-PS,No,Yes
+Library Technicians,61,Idle Hour Library,L-IHL,Yes,No
+Library Technicians,3,The Bibliophile's Shelves,L-BS,Yes,Yes
+Library Technicians,5,Old Friend Library,L-OFL,Yes,No
+Library Technicians,20,Bide Awhile,L-BA,Yes,No
+Library Technicians,2,IndieUnBound,L-IUB,Yes,No
+Library Technicians,1,Page Station Book Exchange,L-PS,No,Yes
